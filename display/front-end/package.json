@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "element-plus": "^2.3.6",
+    "element-ui": "^2.15.13"
+  }
+}
